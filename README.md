@@ -33,5 +33,6 @@ have a look at [threejs-builder][]. Pull requests are welcome there!
 
 [examples]: http://threejs.org/examples/
 [Three.js]: https://github.com/mrdoob/three.js/
+[threejs-build]: https://github.com/bodylabs/threejs-build
 [open an issue]: https://github.com/bodylabs/threejs-examples/issues
 [threejs-builder]: https://github.com/bodylabs/threejs-builder
